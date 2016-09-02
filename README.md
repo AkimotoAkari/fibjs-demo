@@ -1,2 +1,2 @@
 # fibjs-demo
-Demos for fibjs
+Demos of fibjs. Currently under construction.
